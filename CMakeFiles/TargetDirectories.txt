@@ -1,0 +1,2 @@
+/usr/local/src/openalpr/openalpr/CMakeFiles/rebuild_cache.dir
+/usr/local/src/openalpr/openalpr/CMakeFiles/edit_cache.dir
